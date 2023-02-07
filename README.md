@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oronoque
-- 👀 I’m interested in becoming a penetration tester in addition to refining & expanding my skills as a songwriter, singer, musician and athlete.
-- 🌱 I’m currently learning to become a full-stack developer, interested in machine learning.
+- 👀 I don't know what I don't know.
+- 🌱 I’m currently learning to become a full-stack developer.
 - 💞️ I’m looking to collaborate on building a personalized application for habit tracking/analysis and journaling.
 - 📫 How to reach me: lucasmaddy.com (@LucasMaddy on twitter)
 
